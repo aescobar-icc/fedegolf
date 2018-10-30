@@ -1,5 +1,9 @@
 {
-	"App":{
+	"ANDROID":{
+		"versionNumber":111,
+		"versionName":"1.0.8"
+	}
+	"IOS":{
 		"versionNumber":111,
 		"versionName":"1.0.8"
 	}
