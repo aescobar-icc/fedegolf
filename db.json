@@ -1,10 +1,10 @@
 {
 	"ANDROID":{
-		"versionNumber":119,
-		"versionName":"1.1.3"
+		"versionNumber":200,
+		"versionName":"2.0.0"
 	},
 	"IOS":{
-		"versionNumber":119,
-		"versionName":"1.1.3"
+		"versionNumber":200,
+		"versionName":"2.0.0"
 	}
 }
